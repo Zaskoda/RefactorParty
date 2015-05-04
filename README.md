@@ -27,6 +27,8 @@ Our time in the long history of humanity is marked with the birth and rise of th
   - Political income capped at median income level for district/state/etc represented.
   - Health Care For All!
   - Operate core campaign on Bitcoin as much as possible.
+  - Apply good UX to government laws and services.
+  - Legal framework for all levels of government archived in revision control system.
 
  
   
