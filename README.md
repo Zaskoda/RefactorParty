@@ -2,13 +2,15 @@
 
 ##OMGWUT?
 
+**Core idea:** it's all open and maintained in source control so it can evolve (refactor) as needed.
+
  > Not "Left" or "Right", more like "Outside"
 
-The "Refactor Party" is one of two parts in a circular project with the other part being "Party Platform". The "Party Platform" is a set of tools (at first curated, hopefully some day custom) configured and deployed following a methodology to provide communication, transparency, for political parties and candidates. The "Refactor Party" is a prototypical political party that plays two key roles. First, the Refactor Party's initial primary mission is the creation of the Party Platofrm. Seond, the Refactor Party is the initial "use case" for platform. 
+The "Refactor Party" is one of two parts of an idea. The idea is something of a circular project, one part political party (Refactor Party) with the other part being the "Party Platform". The "Party Platform" is a set of tools (at first curated open source tools, ideally custom build some day) configured and deployed following a methodology to provide communication and transparency for political parties and candidates. The "Refactor Party" is a prototypical political party that plays two key roles. First, the Refactor Party's initial primary mission is the creation of the Party Platofrm. Seond, the Refactor Party is the initial "use case" for platform. 
 
 ##Participation
 
-There's no way to join yet, it's just an idea. However, you an submit issues, pull requests, or fork if ya want.
+There's no way to join yet, it's just an idea. However, you an submit issues, pull requests, or fork if ya want. I just put the idea out here in case it caught on with anyone else.
 
 ##The "Refactor" Name
 
